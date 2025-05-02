@@ -1,0 +1,4 @@
+name: first_app
+packages:
+  - core/**
+  - features/**
